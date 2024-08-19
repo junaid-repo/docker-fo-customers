@@ -1,0 +1,10 @@
+/home/junaid/Workspaces/FoodOrder/customers/src/main/java/com/food/customers/services/utility/Utility.java
+/home/junaid/Workspaces/FoodOrder/customers/src/main/java/com/food/customers/repo/CustomerRepository.java
+/home/junaid/Workspaces/FoodOrder/customers/src/main/java/com/food/customers/services/UserService.java
+/home/junaid/Workspaces/FoodOrder/customers/src/main/java/com/food/customers/repo/CustomerAddressRepository.java
+/home/junaid/Workspaces/FoodOrder/customers/src/main/java/com/food/customers/config/SecurityConfig.java
+/home/junaid/Workspaces/FoodOrder/customers/src/main/java/com/food/customers/entities/CustomerAddress.java
+/home/junaid/Workspaces/FoodOrder/customers/src/main/java/com/food/customers/entities/CustomerDetails.java
+/home/junaid/Workspaces/FoodOrder/customers/src/main/java/com/food/customers/advice/GlobalExceptionHandler.java
+/home/junaid/Workspaces/FoodOrder/customers/src/main/java/com/food/customers/CustomersApplication.java
+/home/junaid/Workspaces/FoodOrder/customers/src/main/java/com/food/customers/controller/CController.java
